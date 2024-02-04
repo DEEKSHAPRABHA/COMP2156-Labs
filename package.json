@@ -4,7 +4,8 @@
   "description": " Comp2156 Lab Exercise 4 ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo\"No ci configure\""
   },
   "keywords": [],
   "author": " Deeksha Prabha ",
